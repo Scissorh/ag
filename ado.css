@@ -1,4 +1,4 @@
-<!-- [ CSS 4 Button]-->
+/* CSS 4 Button*/
 
  .bt{background: linear-gradient(180deg, #47ff6f, #417ce0);
   font-size: 23px;
@@ -87,7 +87,7 @@ line-height: 3.4rem;}
   }
 }
   
-  <!--[ Css 4 Stylish container]-->
+  /* Css 4 Stylish container*/
 
     /* Recently uploaded */ .listemup-bg{position:relative;overflow:hidden;padding:20px 20px 30px;border-radius:10px;background:var(--contentB);border:1px solid var(--Thumnail-Border);box-shadow:0 5px 35px rgb(0 0 0 / 7%)}.listemup-bg::before{pointer-events:none;content:&#39;&#39;;width:70px;height:70px;position:absolute;z-index:0;background:rgba(0,0,0,.18);bottom:0;left:0;border-radius:0 70px 0 0}#listemup img{width:100px;transition:.3s}#listemup li{list-style-type:none;display:flex;align-items:center;text-align:center;margin:7px auto;border-radius:16px;overflow:hidden;border:10px solid var(--contentB);box-shadow:0 5px 16px rgb(0 0 0 / 7%)}#listemup h2{position:absolute;z-index:1;transform:scale(0);bottom:-19px;left:20px;right:20px;text-overflow:ellipsis;white-space:nowrap;font-size:100%;transition:.2s}#listemup ul{display:flex;flex-wrap:wrap;padding:0;justify-content:center;align-items:center;position:relative}#listemup a:hover~h2{transform:scale(1)}#listemup li:hover{outline:1px solid var(--Thumnail-Border)}#listemup img:hover{transform:scale(1.1);filter:brightness(.5)}.drK .listemup-bg{background:var(--darkBa)}.drK #listemup li{border:10px solid var(--darkBa);box-shadow:0 5px 25px rgb(0 0 0 / 25%)}
 /* techyarif */ .techyarif::after,.techyarif::before{content:&#39;&#39;;display:block;position:absolute;width:115px;height:115px;transition:opacity .3s;opacity:1}.techyarif{position:relative;padding:25px;border-radius:10px;background:#fff;box-shadow:0 10px 25px -3px rgb(0 0 0 / 10%);margin-top:25px}.techyarif::before{top:0;left:0;background:rgba(155,170,175,.12);background-repeat:no-repeat;border-radius:10px 0 120px}.techyarif::after{bottom:0;right:0;background:rgba(155,170,175,.12);background-repeat:no-repeat;border-radius:120px 0 10px}.drK .techyarif{background-color:var(--darkBa)}
